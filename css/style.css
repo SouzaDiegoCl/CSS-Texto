@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+p.txt1{
+    font-family: 'Courier New', Courier;    
+    font-size: 20px;
+    font-weight: 900;
+    text-align: left;
+    text-indent: 10px;
+    color: rgb(31, 2, 134);
+    background-color: aqua;
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    text-decoration-style: wavy;
+}
