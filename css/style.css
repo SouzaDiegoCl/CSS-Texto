@@ -1,15 +1,51 @@
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 p.txt1{
     font-family: 'Courier New', Courier;    
     font-size: 20px;
     font-weight: 900;
     text-align: left;
     text-indent: 10px;
-    color: rgb(31, 2, 134);
+    color: rgb(233, 35, 183);
     background-color: aqua;
     text-decoration-line: underline;
     text-decoration-color: brown;
     text-decoration-style: wavy;
+}
+p.txt2{
+    font-family:Arial, Helvetica, sans-serif;    
+    font-size: 15px;
+    font-weight:bold;
+    text-align: right;
+    text-indent: 10px;
+    text-transform:capitalize;
+    letter-spacing:4px;
+    text-shadow: 3px 4px 10px red;
+}
+p.txt3{
+    font-family:Georgia, Times, 'Times New Roman';    
+    font-size: 19px;
+    font-weight:lighter;
+    text-align:center;
+    text-indent: 10px;
+    color: rgb(143, 211, 18);
+    background-color: black;
+    text-shadow: 3px 4px 10px green;
+    word-spacing: 10px;
+    font-style:italic;   
+}
+p.txt4{
+    font-family: 'Verdana, Tahoma, sans-serif'; 
+    font-size: 23px;
+    font-weight:bold;
+    text-align:left;
+    text-indent: 10px;
+    color: rgb(67, 58, 197);
+    background-color: rgb(87, 201, 96);   
+    opacity: 0.4;
+    line-height:50px
 }
